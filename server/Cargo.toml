@@ -26,7 +26,7 @@ uuid = { version = "1.0.0-alpha.1", features = [ "v4" ] }
 bytes = "1.1.0"
 conv = "0.3.3"
 futures = "0.3.21"
-tokio = "1.16.1"
+tokio = "1.17.0"
 itertools = "0.10.3"
 textwrap = { version = "0.14.2", features = ["smawk", "unicode-linebreak", "unicode-width"] }
 smawk = "0.3.1"
